@@ -1,2 +1,6 @@
-# To-Do-List-Project
-A simple website for to do list created using HTML, JS and CSS. The user can add the number of to-do work details and you can see the details stored in the list form like sticky list notes. Also, the user can delete the list items if he/she wants to remove it.
+# ToDo Today
+## A To Do app built with Bootstrap and JavaScript.
+
+Add items by completing the input field and clicking the "Add Item" button or hitting the ENTER key.
+
+Check out my app in your browsere [here](https://smissaertj.github.io/js-bts-todo/).
